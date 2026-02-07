@@ -1,4 +1,4 @@
-# Elias @ ArconicLabs
+# projectVANDAL (aka Elias @ ArconicLabs)
 
 Systems engineer by day, Game/Simulation dev at night/weekends
 
